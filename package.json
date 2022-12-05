@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "bower": "*",
-    "less": "1.7.4"
+    "less": "2.1.0"
   },
   "devDependencies": {
     "karma": "^0.12.14",
